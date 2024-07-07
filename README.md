@@ -1,4 +1,4 @@
-# toku_app
+# Toku App
 
 ### A Flutter app that can be used to learn some Japanese words and phrases
 
