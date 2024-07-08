@@ -29,7 +29,7 @@ During this project, I focused on practicing the following Flutter concepts:
 * **Navigating Screens:** How to move from one screen to another via `Navigator.push`.
 * **Refactoring Widgets:** How to refactor widgets that are mostly used in the project by making it as a template,  rather than writing it every time in each part of the project. 
 * **Style:** How to style widgets such as changing colors, sizes, and behaviors.
-* * **Assets:** How to add assets to `pubspec.yaml` file like images sounds, and how to use them.
+* **Assets:** How to add assets to `pubspec.yaml` file like images sounds, and how to use them.
 * **Dependencies:** How to download a package from to `pubspec.yaml` file and import them.
 * **UI:** How to style the UI in general.
 
