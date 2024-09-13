@@ -1,6 +1,6 @@
 # Toku App
 
-### A Flutter app that can be used to learn some Japanese words and phrases
+### An educational mobile application that helps users learn Japanese phrases, numbers, colors, and family members through interactive audio-visual content.
 
 ## Table of contents
 * [General info](#general-info)
